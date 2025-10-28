@@ -1,4 +1,4 @@
-#🦕 Proyecto Tableau – GRUPO 3 — Jurassic Park: Personajes, Dinosaurios y Recaudación a lo largo de la saga
+# Proyecto Tableau – GRUPO 3 — Jurassic Park: Personajes, Dinosaurios y Recaudación a lo largo de la saga
 
 # Por Ángela Goncay, María Nicolás y Siuzanna Danielian
 # 🎬 Descripción del proyecto
